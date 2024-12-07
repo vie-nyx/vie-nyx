@@ -50,3 +50,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vie-nyx&show_icons=true&theme=dark&locale=en&layout=compact" alt="vie-nyx" />
 </p>
+
+[![An image of @vienyx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vienyx)](https://holopin.io/@vienyx)
